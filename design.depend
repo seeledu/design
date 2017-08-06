@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1495771427 source:h:\program\design\main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<iostream>
+	<algorithm>
+	<string>
+	<queue>
+	<utility>
+	<vector>
+	<map>
+
